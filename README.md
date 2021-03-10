@@ -2,6 +2,8 @@
 
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Xavierds67/Free-Pub)
 
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Xavierds67/Free-Pub)
+
 # [Free-Pub]
 
 # Free Pub our band's static website, promting  pub gigs, weddings and special occassions.
